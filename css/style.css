@@ -1,0 +1,15 @@
+ul{
+    width: 100%;
+    color: black;
+    background: lightblue;
+    list-style-type: none;
+}
+
+li {
+    color:blueviolet;
+}
+
+p {
+    margin: 0;
+    color: black;
+}
